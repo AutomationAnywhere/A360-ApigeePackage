@@ -1,0 +1,11 @@
+{
+  "name": "ApigeeX",
+  "label": "[[label]]",
+  "description": "[[description]]",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "iconPath":"icons/",
+  "commands": []
+}
